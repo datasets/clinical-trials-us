@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="108556">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>Information obtained from ClinicalTrials.gov on January 31, 2013</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT01101477</url>
+  </required_header>
+  <id_info>
+    <org_study_id>98-3441A3</org_study_id>
+    <nct_id>NCT01101477</nct_id>
+  </id_info>
+  <brief_title>Target-Controlled Infusion of Propofol for Flexible Bronchoscopy Sedation</brief_title>
+  <official_title>Target-Controlled Infusion of Propofol for Flexible Bronchoscopy Sedation: Determining the Optimal Titrating Regimen</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Chang Gung Memorial Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Chang Gung Memorial Hospital</source>
+  <oversight_info>
+    <authority>Taiwan: Institutional Review Board</authority>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Flexible bronchoscopy (FB) sedation requires keeping sedative level in a narrow window to
+      prevent over or under sedation. Sedative drug titration according to subjective adjustment
+      by individual physician may cause unsteady drug concentration. Target controlled infusion
+      (TCI) has been provided a precise pharmacokinetic control of propofol, direct control the
+      effect side, (eg. Brain) concentration (Ce), and been applied in surgical anesthesia and
+      variable procedure sedation. We designed this pilot study to evaluate the optimal regimen of
+      TCI in FB sedation.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Propofol is ideal for bronchoscopy sedation because of its fast onset and quick recovery
+      effect. Our research and reports from different investigators demonstrate that patients
+      received propofol sedation recover fast with excellent satisfaction for bronchoscopy.
+      However, the amount of propofol for induction and maintenance is calculated simply by
+      patient's body weight and physicians' experience. For those non-anesthesiologists, who
+      perform sedative work outside the operating room, and inexperienced anesthesiologist without
+      fully considering the individual pharmacokinetic and pharmacodynamic differences may
+      generate unstable drug plasma concentration and increase cardio-respiration suppression.
+      Therefore, a manner which can assess and measure objectively individual pharmacokinetic
+      differences may improve the sedative quality and decrease the complication rate.
+
+      A model called &quot;Target-controlled infusion&quot;(TCI), built from massive pharmacokinetic samples
+      of propofol, could now give precise pharmacokinetic control. Several pharmacokinetic models
+      built-in in TCI, includes the Schnider model which use concentration of effect site (Ce, the
+      propofol concentration in the brain) as the sedative guide. The model integrates individual
+      variants of age, height, weight and gender to calculate the infusion profile to achieve
+      predetermined steady  &quot;target effect site concentration&quot; (Cet). Because of the unique
+      consideration of individual pharmacokinetic variants and Ce targeting, TCI provides
+      predictable sedative level and is suitable for procedures requiring narrowing therapeutic
+      level. Beside general anesthesia, TCI has been applied in breast biopsy, upper
+      gastrointestinal endoscopic ultrasound and endoscopic retrograde cholangiopancreatography at
+      outpatient clinic. According to these evidences, there is potential role of TCI in
+      bronchoscopic sedation.
+
+      Based on current evidence and our experience, we design this study to evaluate the optimal
+      regimen for induction and procedure during bronchoscopy. We hope this study could provide
+      the more safety and efficient bronchoscopic sedation for patients and physicians.
+    </textblock>
+  </detailed_description>
+  <overall_status>Terminated</overall_status>
+  <why_stopped>
+    Hypoxemia(SPaO2&lt;80%) episodes occured significantly in the arm titration by 0.5ug/ml
+  </why_stopped>
+  <start_date>February 2010</start_date>
+  <completion_date type="Actual">August 2010</completion_date>
+  <primary_completion_date type="Actual">August 2010</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation:  Randomized, Endpoint Classification:  Safety/Efficacy Study, Intervention Model:  Parallel Assignment, Masking:  Double Blind (Subject, Caregiver), Primary Purpose:  Treatment</study_design>
+  <primary_outcome>
+    <measure>The Number of Patients With Hypoxemia During Flexible Bronchoscopy</measure>
+    <time_frame>During sedative induction and bronchoscopy</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>Hypoxemia is defined as:
+Oxyhemoglobin saturation (SPO2) is less than 90 % with any duration</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>The Number of Changes in Target Effect Site Concentration During Flexible Bronchoscopy</measure>
+    <time_frame>During sedative induction and bronchoscopy</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>The investigator will titrate the target effect site concentration (Cet) during bronchoscopy according to protocol to keep stable vital signs and sedative levels. The numbers of adjustment will be recorded to show which regimen required less adjustment to keep stable sedative levels and vital signs.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>The Recovery Time to Orientation</measure>
+    <time_frame>after bronchosocpy</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>The recovery time to orientation was defined as the time between finishing bronchoscopy to the time when the patients could spontaneously open their eyes, recall their date of birth, and correctly perform finger-nose test.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The Total Doses of Propofol During Induction and Overall Procedures</measure>
+    <time_frame>after bronchoscopy</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>The dosses of propofol used during induction and overall flexible bronchoscopy will be recored from the screen of the TCI pump.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The Cooperation of Patients From the View of Bronchoscopists</measure>
+    <time_frame>After bronchoscopy</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>After the bronchoscopy, the bronchoscopist will be asked by 10-point Verbal Analogus Scale (0: the best cooperation, 10: the worst cooperation) to express how they fell about the cooperation of patients undergoing the bronchoscopy.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The Global Tolerance for Flexible Bronchoscopy</measure>
+    <time_frame>After recovery</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>After the recovery, patients will be asked about the tolerance of bronchoscopy performed to them by 10-point Verbal Analogus Scale (0: best tolerance, 10: worst tolerance)</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Actual">144</enrollment>
+  <condition>Flexible Bronchoscopy</condition>
+  <arm_group>
+    <arm_group_label>Titration by target effect site concentration (Cet) 0.5μg/ml</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>The investigator will titrate the Cet to keep stable vital signs and sedative level during the flexible bronchoscopy. The criteria for titration is descried in the intervention.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Titration by Cet 0.2μg/ml</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>The investigator will titrate the Cet to keep stable vital signs and sedative level during the flexible bronchoscopy. The criteria for titration is descried in the intervention.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Titration by Cet 0.1μg/ml</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>The investigator will titrate the Cet to keep stable vital signs and sedative level during the flexible bronchoscopy. The criteria for titration is descried in the intervention.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>TCI titration by different Cet.</intervention_name>
+    <description>Induction:
+After topical xylocaine and alfentanil 5μg/kg iv 1 minute before, Cet 2.0μg/ml is started on the TCI pump ('Vial&quot; Injectomat TIVA Agilia syringe infusion pump, Fresenius Kabi, France). The sedative level will be accessed by sedation scale &quot;OAA/S&quot; every 30 seconds till OAA/S ≦3(Responds only to name called loudly). The current Ce will be set as the maintenance Cet.
+If desired OAA/S is not achieved after reaching 2.0μg/ml,Cet will be increased every 90 seconds by the regimens be assigned until OAA/S ≦3. The current Ce will be set as the maintenance Cet.
+Maintenance:
+The Cet will be increased according to the assigned regimens if:
+Patients become irritant and interfere procedures.
+Patients open eyes or talk to express uncomfortable.
+The Cet will be decreased if:
+Systolic blood pressure is less than 90mmHg;
+Mean arterial blood pressure is less than 65mmHg;
+Oxyhemoglobin saturation is less than 90 %
+with any duration.</description>
+    <arm_group_label>Titration by target effect site concentration (Cet) 0.5μg/ml</arm_group_label>
+    <arm_group_label>Titration by Cet 0.2μg/ml</arm_group_label>
+    <arm_group_label>Titration by Cet 0.1μg/ml</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Adult patients (18 years old or more) required elective flexible bronchoscopy and
+             sedation.
+
+        Exclusion Criteria:
+
+          -  American Society of Anesthesiologists classification of physical status 4 and 5,
+             including hepatic or renal failure, severe obstructive sleep apnea and severe chronic
+             obstructive pulmonary disease.
+
+          -  Mallampati score 4 or 5.
+
+          -  Significant Central nervous system disorders or other factors contributing to access
+             consciousness difficultly.
+
+          -  Men with body mass index(BMI) large than 42，Females with BMI large than 35.
+
+          -  Allergic history to study drugs.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>95 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Ting-Yu Lin, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Department of Thoracic Medicine, Chang Gung Memorial hospital</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Department of Thoracic Medicine, Chang Gung Memorial Hospital</name>
+      <address>
+        <city>Taoyuan</city>
+        <zip>33305</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Taiwan</country>
+  </location_countries>
+  <reference>
+    <citation>Fanti L, Agostoni M, Arcidiacono PG, Albertin A, Strini G, Carrara S, Guslandi M, Torri G, Testoni PA. Target-controlled infusion during monitored anesthesia care in patients undergoing EUS: propofol alone versus midazolam plus propofol. A prospective double-blind randomised controlled trial. Dig Liver Dis. 2007 Jan;39(1):81-6. Epub 2006 Oct 16.</citation>
+    <PMID>17049322</PMID>
+  </reference>
+  <verification_date>November 2011</verification_date>
+  <lastchanged_date>November 5, 2011</lastchanged_date>
+  <firstreceived_date>April 7, 2010</firstreceived_date>
+  <firstreceived_results_date>November 5, 2011</firstreceived_results_date>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Chang Gung Memorial Hospital</investigator_affiliation>
+    <investigator_full_name>林定佑</investigator_full_name>
+    <investigator_title>Attending physician, Lecture of Medicine, Division of Thoracic Medicine</investigator_title>
+  </responsible_party>
+  <keyword>Target-controlled infusion,</keyword>
+  <keyword>bronchoscopy,</keyword>
+  <keyword>sedation,</keyword>
+  <keyword>propofol</keyword>
+  <is_fda_regulated>No</is_fda_regulated>
+  <has_expanded_access>No</has_expanded_access>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Propofol</mesh_term>
+  </intervention_browse>
+
+  <clinical_results>
+
+    <participant_flow>
+      <recruitment_details>Patients undergoing elective flexible bronchoscopy (FB) and sedation were screened for enrolment at the bronchoscopic room on the day of exam.</recruitment_details>
+      <pre_assignment_details>If patients or accompanying family refused to paticipate anytime before assignment to groups.</pre_assignment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>Titration by Target Effect Site Concentration (Cet) 0.5μg/ml</title>
+          <description>The investigator will titrate the Cet to keep stable vital signs and sedative level during the flexible bronchoscopy. The criteria for titration is descried in the intervention.</description>
+        </group>
+        <group group_id="P2">
+          <title>Titration by Cet 0.2μg/ml</title>
+          <description>The investigator will titrate the Cet to keep stable vital signs and sedative level during the flexible bronchoscopy. The criteria for titration is descried in the intervention.</description>
+        </group>
+        <group group_id="P3">
+          <title>Titration by Cet 0.1μg/ml</title>
+          <description>The investigator will titrate the Cet to keep stable vital signs and sedative level during the flexible bronchoscopy. The criteria for titration is descried in the intervention.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="49"/>
+                <participants group_id="P2" count="49"/>
+                <participants group_id="P3" count="46"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="44"/>
+                <participants group_id="P2" count="46"/>
+                <participants group_id="P3" count="45"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="5"/>
+                <participants group_id="P2" count="3"/>
+                <participants group_id="P3" count="1"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Protocol Violation</title>
+              <participants_list>
+                <participants group_id="P1" count="5"/>
+                <participants group_id="P2" count="3"/>
+                <participants group_id="P3" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Titration by Target Effect Site Concentration (Cet) 0.5μg/ml</title>
+          <description>The investigator will titrate the Cet to keep stable vital signs and sedative level during the flexible bronchoscopy. The criteria for titration is descried in the intervention.</description>
+        </group>
+        <group group_id="B2">
+          <title>Titration by Cet 0.2μg/ml</title>
+          <description>The investigator will titrate the Cet to keep stable vital signs and sedative level during the flexible bronchoscopy. The criteria for titration is descried in the intervention.</description>
+        </group>
+        <group group_id="B3">
+          <title>Titration by Cet 0.1μg/ml</title>
+          <description>The investigator will titrate the Cet to keep stable vital signs and sedative level during the flexible bronchoscopy. The criteria for titration is descried in the intervention.</description>
+        </group>
+        <group group_id="B4">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <measure_list>
+        <measure>
+          <title>Number of Participants</title>
+          <units>participants</units>
+          <param>Number</param>
+          <category_list>
+            <category>
+              <measurement_list>
+                <measurement group_id="B1" value="49"/>
+                <measurement group_id="B2" value="49"/>
+                <measurement group_id="B3" value="46"/>
+                <measurement group_id="B4" value="144"/>
+              </measurement_list>
+            </category>
+          </category_list>
+        </measure>
+        <measure>
+          <title>Age</title>
+          <units>participants</units>
+          <param>Number</param>
+          <category_list>
+            <category>
+              <sub_title>&lt;=18 years</sub_title>
+              <measurement_list>
+                <measurement group_id="B1" value="0"/>
+                <measurement group_id="B2" value="0"/>
+                <measurement group_id="B3" value="0"/>
+                <measurement group_id="B4" value="0"/>
+              </measurement_list>
+            </category>
+            <category>
+              <sub_title>Between 18 and 65 years</sub_title>
+              <measurement_list>
+                <measurement group_id="B1" value="27"/>
+                <measurement group_id="B2" value="28"/>
+                <measurement group_id="B3" value="21"/>
+                <measurement group_id="B4" value="76"/>
+              </measurement_list>
+            </category>
+            <category>
+              <sub_title>&gt;=65 years</sub_title>
+              <measurement_list>
+                <measurement group_id="B1" value="22"/>
+                <measurement group_id="B2" value="21"/>
+                <measurement group_id="B3" value="25"/>
+                <measurement group_id="B4" value="68"/>
+              </measurement_list>
+            </category>
+          </category_list>
+        </measure>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <category_list>
+            <category>
+              <measurement_list>
+                <measurement group_id="B1" value="61.4" spread="13.0"/>
+                <measurement group_id="B2" value="62.6" spread="13.5"/>
+                <measurement group_id="B3" value="63.4" spread="14.4"/>
+                <measurement group_id="B4" value="62.4" spread="13.6"/>
+              </measurement_list>
+            </category>
+          </category_list>
+        </measure>
+        <measure>
+          <title>Gender</title>
+          <units>participants</units>
+          <param>Number</param>
+          <category_list>
+            <category>
+              <sub_title>Female</sub_title>
+              <measurement_list>
+                <measurement group_id="B1" value="23"/>
+                <measurement group_id="B2" value="22"/>
+                <measurement group_id="B3" value="22"/>
+                <measurement group_id="B4" value="67"/>
+              </measurement_list>
+            </category>
+            <category>
+              <sub_title>Male</sub_title>
+              <measurement_list>
+                <measurement group_id="B1" value="26"/>
+                <measurement group_id="B2" value="27"/>
+                <measurement group_id="B3" value="24"/>
+                <measurement group_id="B4" value="77"/>
+              </measurement_list>
+            </category>
+          </category_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>participants</units>
+          <param>Number</param>
+          <category_list>
+            <category>
+              <sub_title>Taiwan</sub_title>
+              <measurement_list>
+                <measurement group_id="B1" value="49"/>
+                <measurement group_id="B2" value="49"/>
+                <measurement group_id="B3" value="46"/>
+                <measurement group_id="B4" value="144"/>
+              </measurement_list>
+            </category>
+          </category_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>The Number of Patients With Hypoxemia During Flexible Bronchoscopy</title>
+        <description>Hypoxemia is defined as:
+Oxyhemoglobin saturation (SPO2) is less than 90 % with any duration</description>
+        <time_frame>During sedative induction and bronchoscopy</time_frame>
+        <safety_issue>Yes</safety_issue>
+        <population>The participants who received intervention completely were analyzed.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Titration by Target Effect Site Concentration (Cet) 0.5μg/ml</title>
+            <description>The investigator will titrate the Cet to keep stable vital signs and sedative level during the flexible bronchoscopy. The criteria for titration is descried in the intervention.</description>
+          </group>
+          <group group_id="O2">
+            <title>Titration by Cet 0.2μg/ml</title>
+            <description>The investigator will titrate the Cet to keep stable vital signs and sedative level during the flexible bronchoscopy. The criteria for titration is descried in the intervention.</description>
+          </group>
+          <group group_id="O3">
+            <title>Titration by Cet 0.1μg/ml</title>
+            <description>The investigator will titrate the Cet to keep stable vital signs and sedative level during the flexible bronchoscopy. The criteria for titration is descried in the intervention.</description>
+          </group>
+        </group_list>
+        <measure_list>
+          <measure>
+            <title>Number of Participants</title>
+            <units>participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="44"/>
+                  <measurement group_id="O2" value="46"/>
+                  <measurement group_id="O3" value="45"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+          <measure>
+            <title>The Number of Patients With Hypoxemia During Flexible Bronchoscopy</title>
+            <description>Hypoxemia is defined as:
+Oxyhemoglobin saturation (SPO2) is less than 90 % with any duration</description>
+            <units>participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="29"/>
+                  <measurement group_id="O2" value="22"/>
+                  <measurement group_id="O3" value="18"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+        </measure_list>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+              <group_id>O3</group_id>
+            </group_id_list>
+            <groups_desc>The patients with at lease one episode of hypoxemia (SPaO2&lt;90%) during FB were analyzed by Chi-square test. P value less 0.05 means significance, 2-sided.</groups_desc>
+            <non_inferiority>No</non_inferiority>
+            <p_value>0.05</p_value>
+            <method>Chi-squared</method>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>The Number of Changes in Target Effect Site Concentration During Flexible Bronchoscopy</title>
+        <description>The investigator will titrate the target effect site concentration (Cet) during bronchoscopy according to protocol to keep stable vital signs and sedative levels. The numbers of adjustment will be recorded to show which regimen required less adjustment to keep stable sedative levels and vital signs.</description>
+        <time_frame>During sedative induction and bronchoscopy</time_frame>
+        <safety_issue>No</safety_issue>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>The Recovery Time to Orientation</title>
+        <description>The recovery time to orientation was defined as the time between finishing bronchoscopy to the time when the patients could spontaneously open their eyes, recall their date of birth, and correctly perform finger-nose test.</description>
+        <time_frame>after bronchosocpy</time_frame>
+        <safety_issue>No</safety_issue>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>The Total Doses of Propofol During Induction and Overall Procedures</title>
+        <description>The dosses of propofol used during induction and overall flexible bronchoscopy will be recored from the screen of the TCI pump.</description>
+        <time_frame>after bronchoscopy</time_frame>
+        <safety_issue>No</safety_issue>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>The Cooperation of Patients From the View of Bronchoscopists</title>
+        <description>After the bronchoscopy, the bronchoscopist will be asked by 10-point Verbal Analogus Scale (0: the best cooperation, 10: the worst cooperation) to express how they fell about the cooperation of patients undergoing the bronchoscopy.</description>
+        <time_frame>After bronchoscopy</time_frame>
+        <safety_issue>No</safety_issue>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>The Global Tolerance for Flexible Bronchoscopy</title>
+        <description>After the recovery, patients will be asked about the tolerance of bronchoscopy performed to them by 10-point Verbal Analogus Scale (0: best tolerance, 10: worst tolerance)</description>
+        <time_frame>After recovery</time_frame>
+        <safety_issue>No</safety_issue>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>From the starting of induction to patients leaving the bronchoscopic room after recovery.</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>Titration by Target Effect Site Concentration (Cet) 0.5μg/ml</title>
+          <description>The investigator will titrate the Cet to keep stable vital signs and sedative level during the flexible bronchoscopy. The criteria for titration is descried in the intervention.</description>
+        </group>
+        <group group_id="E2">
+          <title>Titration by Cet 0.2μg/ml</title>
+          <description>The investigator will titrate the Cet to keep stable vital signs and sedative level during the flexible bronchoscopy. The criteria for titration is descried in the intervention.</description>
+        </group>
+        <group group_id="E3">
+          <title>Titration by Cet 0.1μg/ml</title>
+          <description>The investigator will titrate the Cet to keep stable vital signs and sedative level during the flexible bronchoscopy. The criteria for titration is descried in the intervention.</description>
+        </group>
+      </group_list>
+      <other_events>
+        <frequency_threshold>5</frequency_threshold>
+        <default_assessment>Non-systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="6" subjects_at_risk="44"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="46"/>
+                <counts group_id="E3" subjects_affected="2" subjects_at_risk="45"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>oxyhemoglobin saturation (SpO2) less than 80%</sub_title>
+                <counts group_id="E1" subjects_affected="6" subjects_at_risk="44"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="46"/>
+                <counts group_id="E3" subjects_affected="2" subjects_at_risk="45"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>All Principal Investigators ARE employed by the organization sponsoring the study.</pi_employee>
+    </certain_agreements>
+    <limitations_and_caveats>Early termination leading to small numbers of subjects analyzed.</limitations_and_caveats>
+    <point_of_contact>
+      <name_or_title>Dr. Ting-Yu Lin</name_or_title>
+      <organization>Chang Gung Memorial Hospital</organization>
+      <phone>886 3 3281200 ext 5108</phone>
+      <email>yuebaoyuebao@yahoo.com.tw</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
