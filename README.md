@@ -1,3 +1,5 @@
+<a href="https://datahub.io/core/clinical-trials-us"><img src="https://badgen.net/badge/icon/View%20on%20datahub.io/orange?icon=https://datahub.io/datahub-cube-badge-icon.svg&label&scale=1.25)" alt="badge" /></a>
+
 Data and processing scripts for clinical trials information in
 <http://ClinicalTrials.gov>, a registry and results database of publicly and
 privately supported clinical studies of human participants conducted around the
