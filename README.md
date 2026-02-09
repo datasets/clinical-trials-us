@@ -1,7 +1,7 @@
 <a className="gh-badge" href="https://datahub.io/core/clinical-trials-us"><img src="https://badgen.net/badge/icon/View%20on%20datahub.io/orange?icon=https://datahub.io/datahub-cube-badge-icon.svg&label&scale=1.25" alt="badge" /></a>
 
 Data and processing scripts for clinical trials information in
-<http://ClinicalTrials.gov>, a registry and results database of publicly and
+http://ClinicalTrials.gov, a registry and results database of publicly and
 privately supported clinical studies of human participants conducted around the
 world.
 
@@ -13,7 +13,7 @@ all "applicable clinical trials" as per [FDAAA 801][].
 
 ## Getting the data
 
-1. Go to <http://www.clinicaltrials.gov/>
+1. Go to http://www.clinicaltrials.gov/
 2. Search (no query) to get all results
 3. Hit download and select all results
 4. Wait while 542 Mb zip file downloads `search_results.zip`
@@ -38,5 +38,3 @@ As of Feb 1st 2013 only 8,044 trials included posted-results.
 ### Scripts
 
 Node.js script in extract.js - still under development.
-
-
