@@ -1,0 +1,35 @@
+{
+  "name": "clinical-trials-us",
+  "title": "Clinical Trials US",
+  "description": "Sample XML records from ClinicalTrials.gov and extraction tooling for trial metadata.",
+  "profile": "data-package",
+  "licenses": [
+    {
+      "name": "ODC-PDDL-1.0",
+      "path": "http://opendatacommons.org/licenses/pddl/",
+      "title": "Open Data Commons Public Domain Dedication and License v1.0"
+    }
+  ],
+  "sources": [
+    {
+      "name": "ClinicalTrials.gov",
+      "path": "https://clinicaltrials.gov/",
+      "title": "ClinicalTrials.gov"
+    }
+  ],
+  "resources": [
+    {
+      "name": "nct00000102",
+      "path": "data/NCT00000102.xml",
+      "format": "xml",
+      "mediatype": "application/xml"
+    },
+    {
+      "name": "nct01101477",
+      "path": "data/NCT01101477.xml",
+      "format": "xml",
+      "mediatype": "application/xml"
+    }
+  ],
+  "version": "0.1.0"
+}
